@@ -1,27 +1,25 @@
 {
     "models": [
 		"girls-frontline/88type_1809",
-		"girls-frontline/95type_405",
 		"girls-frontline/97type_3703",
 		"girls-frontline/AK12",
-		"girls-frontline/carcano1891_2201",
-		"girls-frontline/carcano1938_2904",
 		"girls-frontline/contender_2302",
 		"girls-frontline/g11_4102",
 		"girls-frontline/G36C_1202",
 		"girls-frontline/g36_1904",
-		"girls-frontline/G41_2401",
 		"girls-frontline/hk416_3401",
 		"girls-frontline/HK416_805",
 		"girls-frontline/K2_3301",
 		"girls-frontline/kp31",
-		"girls-frontline/m1903_5",
-		"girls-frontline/m590_1806",
 		"girls-frontline/mdr_2603",
-		"girls-frontline/px4storm_2801",
 		"girls-frontline/sr3mp_4101",
 		"girls-frontline/tac50_2602",
-		"girls-frontline/type88_3504"
+		"girls-frontline-destroy/88type_1809",
+		"girls-frontline-destroy/97type_3703",
+		"girls-frontline-destroy/HK416_805",
+		"girls-frontline-destroy/hk416_3401",
+		"girls-frontline-destroy/sr3mp_4101",
+		"girls-frontline-destroy/ump45_3403"
     ],
     "messages": [
         "嗨！主人我来喽 ~"
